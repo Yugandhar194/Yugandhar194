@@ -52,6 +52,7 @@ Feel free to reach out for freelance projects or collaborative opportunities!
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/yugandhar-deshmukh-060852252/)
 - 🚀 [LeetCode Profile](https://leetcode.com/u/Yugandhar_194/)
 - 📧 Email: [yugsjdeshmukh194@gmail.com](mailto:yugsjdeshmukh194@gmail.com)
+- 🌐 Portfolio: (https://yugandhar-deshmukh-portfolio.netlify.app/)
 - 💬 [WhatsApp](https://wa.me/9156811945)
 
 
