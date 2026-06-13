@@ -90,9 +90,10 @@ I enjoy solving complex problems, building end-to-end products, and continuously
 
 ### AI & Productivity
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge\&logo=githubcopilot\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
@@ -155,11 +156,11 @@ CGPA: 7.61
 
 📧 Email: **[yugsjdeshmukh194@gmail.com](mailto:yugsjdeshmukh194@gmail.com)**
 
-🔗 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+🔗 LinkedIn: [https://linkedin.com/in/](https://www.linkedin.com/in/yugandhar-deshmukh-060852252/)
 
 💻 GitHub: https://github.com/Yugandhar194
 
-🧩 LeetCode: https://leetcode.com/YOUR_USERNAME
+🧩 LeetCode: [https://leetcode.com/u/Yugandhar_194](https://leetcode.com/u/Yugandhar_194/)
 
 🌐 Portfolio: https://yugandhar-deshmukh-portfolio.netlify.app
 
